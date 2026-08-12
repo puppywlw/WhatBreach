@@ -62,9 +62,10 @@ misc opts:
 ```
 
 Simple email search:
-```
-python whatbreach.py -e user1337@gmail.com
+``` harmonierose2006@icloud.com
 
+python whatbreach.py -e user1337@gmail.com
+harmonierose2006@icloud.com
 	                                                    _____ 
 	   _ _ _ _       _   _____                 _       |___  |
 	  | | | | |_ ___| |_| __  |___ ___ ___ ___| |_       |  _|
